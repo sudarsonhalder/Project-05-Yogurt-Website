@@ -8,8 +8,8 @@ Text to pdf Generator
 * [Setup](#setup)
 
 ## General info
-This project is built using Html,Css,Javascript.
-You can display Your product and display its pricing.
+This project is built using Html,Css,Javascript.  
+You can display your product and its pricing.
 
 ## Screenshots
  | ![Input Page](/output-images/yogurt.png)|
